@@ -38,35 +38,35 @@
 
 >   [4.7. Требования к транспортированию и хранению](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#47-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E-%D0%B8-%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D1%8E)
 
->   [4.8. Специальные требования](#_Toc52468877)
+>   [4.8. Специальные требования](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#48-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
-[5. Требования к программной документации](#_Toc52468878)
+[5. Требования к программной документации](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#5-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8)
 
->   [5.1. Предварительный состав программной документации](#_Toc52468879)
+>   [5.1. Предварительный состав программной документации](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#51-%D0%BF%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D1%81%D1%82%D0%B0%D0%B2-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8)
 
->   [5.2. Специальные требования к программной документации](#_Toc52468880)
+>   [5.2. Специальные требования к программной документации](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#52-%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B9-%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8)
 
-[6. Технико-экономические показатели](#_Toc52468881)
+[6. Технико-экономические показатели](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#6-%D1%82%D0%B5%D1%85%D0%BD%D0%B8%D0%BA%D0%BE-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D0%B8)
 
->   [6.1. Ориентировочная экономическая эффективность](#_Toc52468882)
+>   [6.1. Ориентировочная экономическая эффективность](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#61-%D0%BE%D1%80%D0%B8%D0%B5%D0%BD%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
 
->   [6.2. Предполагаемая годовая потребность	15](#_Toc52468883)
+>   [6.2. Предполагаемая годовая потребность	15](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#62-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D0%BE%D0%BB%D0%B0%D0%B3%D0%B0%D0%B5%D0%BC%D0%B0%D1%8F-%D0%B3%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D0%BD%D0%BE%D1%81%D1%82%D1%8C)
 
->   [6.3. Экономические преимущества разработки	15](#_Toc52468884)
+>   [6.3. Экономические преимущества разработки	15](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#63-%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B8%D0%BC%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 
-[7. Стадии и этапы разработки	16](#_Toc52468885)
+[7. Стадии и этапы разработки	16](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#7-%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%B8-%D0%B8-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 
->   [7.1. Стадии разработки	16](#_Toc52468886)
+>   [7.1. Стадии разработки	16](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#71-%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 
 >   [7.2. Этапы разработки	16](#_Toc52468887)
 
->   [7.3. Содержание работ по этапам](#_Toc52468888)
+>   [7.3. Содержание работ по этапам](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#73-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82-%D0%BF%D0%BE-%D1%8D%D1%82%D0%B0%D0%BF%D0%B0%D0%BC)
 
-[8. Порядок контроля и приемки](#_Toc52468889)
+[8. Порядок контроля и приемки](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#8-%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D0%BA-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8F-%D0%B8-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BA%D0%B8)
 
->   [8.1. Виды испытаний](#_Toc52468890)
+>   [8.1. Виды испытаний](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#81-%D0%B2%D0%B8%D0%B4%D1%8B-%D0%B8%D1%81%D0%BF%D1%8B%D1%82%D0%B0%D0%BD%D0%B8%D0%B9)
 
->   [8.2. Общие требования к приемке работы](#_Toc52468891)
+>   [8.2. Общие требования к приемке работы](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#82-%D0%BE%D0%B1%D1%89%D0%B8%D0%B5-%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BA-%D0%BF%D1%80%D0%B8%D0%B5%D0%BC%D0%BA%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B)
 
   
   # 1 Введение
@@ -328,7 +328,7 @@ windows xp.
 
 3.  внедрение.
 
-7.2 Этапы разработки
+## 7.2 Этапы разработки
 
 На стадии разработки технического задания должен быть выполнен этап разработки,
 согласования и утверждения настоящего технического задания.
