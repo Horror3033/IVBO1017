@@ -58,7 +58,7 @@
 
 >   [7.1. Стадии разработки	16](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#71-%D1%81%D1%82%D0%B0%D0%B4%D0%B8%D0%B8-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 
->   [7.2. Этапы разработки	16](#_Toc52468887)
+>   [7.2. Этапы разработки	16](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#72-%D1%8D%D1%82%D0%B0%D0%BF%D1%8B-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8)
 
 >   [7.3. Содержание работ по этапам](https://github.com/Horror3033/IVBO1017/blob/TASKLIST/tz.md#73-%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82-%D0%BF%D0%BE-%D1%8D%D1%82%D0%B0%D0%BF%D0%B0%D0%BC)
 
